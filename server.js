@@ -19,5 +19,5 @@ app.use('/productdetails',prdtdet)
 // })
 
 app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+  console.log(`Example app listening at http://143.110.246.237:${port}`)
 })
